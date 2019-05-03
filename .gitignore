@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.env
+docker/data
+package-lock.json
+dist/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
