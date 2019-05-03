@@ -1,6 +1,11 @@
 # AWS DeepRacer 
 
-params
+model-3 results (100% track completed):
+---
+- 00:00:15.289
+
+
+### params
 
 ```
 {
