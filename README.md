@@ -3,6 +3,7 @@
 model-3 results (100% track completed):
 ---
 Track: re:Invent 2018
+- 00:00:14.826
 - 00:00:15.013
 - 00:00:15.272
 - 00:00:15.289
